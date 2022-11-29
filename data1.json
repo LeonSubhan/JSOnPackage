@@ -1,0 +1,32 @@
+[
+  {
+    "Student": {
+      "studentID": "2",
+      "firstName": "Asheek",
+      "lastName": "Shimul",
+      "classID": "2202",
+      "phone": "14433338227",
+      "email": "Asheek.Shimul@uon.edu.au"
+    }
+  },
+  {
+    "Student": {
+      "studentID": "1",
+      "firstName": "Mohammad",
+      "lastName": "Reza",
+      "classID": "2202",
+      "phone": "5617014986",
+      "email": "sreza30th@gmail.com"
+    }
+  },
+  {
+    "Student": {
+      "studentID": "3",
+      "firstName": "Sarwat",
+      "lastName": "Wasim",
+      "classID": "2202",
+      "phone": "1-929-225-5248",
+      "email": "sarwat.navid201070@gmail.com"
+    }
+  }
+]
